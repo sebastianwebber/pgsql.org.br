@@ -3,7 +3,7 @@ title: Comunidade Brasileira de PostgreSQL
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Site da Comunidade Brasileira de PostgreSQL &copy; 2014.
-baseurl: "" # the subpath of your site, e.g. /blog/
+# baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://postgresql.org.br" # the asbe hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
